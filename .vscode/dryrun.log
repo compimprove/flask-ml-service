@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/dinhnt/source/flask-ml-service'
+python3 -m venv ~/.flask-ml-azure
+#source ~/.flask-ml-azure/bin/activate
+make: Leaving directory '/home/dinhnt/source/flask-ml-service'
+ 
